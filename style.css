@@ -328,7 +328,7 @@ h1 em {
   bottom: -18px;
   right: -38px;
   width: 340px;
-  height: 340px;
+  height: 340px;        /* mismo valor que width */
   perspective: 900px;
   z-index: 10;
   animation: floatWrap 4.5s ease-in-out infinite;
